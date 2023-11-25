@@ -10,5 +10,5 @@
 
 ## Vídeos de las entregas
 
-Entrega dos: [clic aquí](https://youtu.be/Gh_PHHFkv1k)
-Entrega 3: [clic aquí](https://www.youtube.com/watch?v=iYA6ZNlcukA) pillen pa que coloquen en el readme del github
+- Entrega dos: [clic aquí](https://youtu.be/Gh_PHHFkv1k)
+- Entrega 3: [clic aquí](https://www.youtube.com/watch?v=iYA6ZNlcukA) pillen pa que coloquen en el readme del github
